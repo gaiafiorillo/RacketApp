@@ -1,6 +1,6 @@
 # Concert Finder App
 
-The **Concert Finder App** connects fans with live music events. Fans can search for upcoming concerts, and bands/artists can post their concert listings. Developed in Racket, the app uses a graphical user interface (GUI) for smooth interaction.
+This **Concert Finder App** connects fans with live music events. Fans can search for upcoming concerts, and bands/artists can post their concert listings. Developed in Racket, the app uses a graphical user interface (GUI) for smooth interaction.
 
 ## Table of Contents
 - [Introduction](#introduction)
